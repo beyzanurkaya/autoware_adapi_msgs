@@ -34,6 +34,7 @@ uint16 LANE_CHANGE = 14
 uint16 AVOIDANCE = 15
 uint16 EMERGENCY_STOP_OPERATION = 16
 uint16 NO_DRIVABLE_LANE = 17
+uint16 ROUNDABOUT = 18
 
 # deprecated variables
 uint16 type
